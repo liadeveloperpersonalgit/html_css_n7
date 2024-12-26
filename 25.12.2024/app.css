@@ -1,0 +1,75 @@
+.exe1{
+    display: inline;
+}
+
+.exe2{
+    display: block;
+} 
+
+
+.mecBan{
+    border: 1px solid red;
+    width: 300px;
+    height: 120px;
+}
+.ban1{
+    border: 1px solid;
+    width: 145.5px;
+    height: 120px;
+    display: inline-block;
+    background: rgb(0,200,200);
+}
+
+
+
+
+.mec{
+    border: 1px solid;
+    width: 60%;
+    height: 600px;
+}
+
+.poqr{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.c{
+    width: 100%;
+    background-color: rgb(100,255,255);
+}
+.b{
+    background: rgb(255,200,200);
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+
+.genBlock{
+    border: 1px solid;
+    width: 100%;
+    height: 500px;   
+}
+.itemBox{
+    border: 1px solid red;
+    width: 32%;
+    height: 100%;
+    display: inline-block;
+}
+.imgTag{
+    width: 100%;
+    height: 45%;
+    object-fit: cover;
+}
+.textConten{
+    border: 1px solid green;
+    width: 100%;
+    height: 55%;
+}
+.aba{
+    margin-left: 23px;
+    margin-right: 23px;
+}
